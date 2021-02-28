@@ -9,5 +9,5 @@ https://www.mngdoom.com/one-piece1
 
 341 - 980
 
-*files get downloaded*
+*files get downloaded*<br/>
 You will need to install bs4, requests, shutil, and os.
