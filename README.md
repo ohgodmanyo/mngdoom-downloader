@@ -4,5 +4,7 @@ This lets you download mangas from mngdoom. Enter a link, and the pages you woul
 ***Do not run this in a directory with a folder called "Images", it will be deleted.***
 
 Input Example:
+
 https://www.mngdoom.com/one-piece1
+
 341 - 980
